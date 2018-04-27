@@ -2,7 +2,7 @@
 
 ECE 111 Final Project
 
-Implement and optimize a SHA256 hash algorithm such that every file can be compressed into 256 blocks. 
+Implement and optimize a SHA256 hash algorithm such that every file can be compressed into 256-bit hash value. 
 
 Secure Hash Algorithm
 
