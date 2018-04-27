@@ -16,7 +16,7 @@ More important information here:
 http://cwcserv.ucsd.edu/~billlin/classes/ECE111/lectures/Lecture6.pdf
 
 My job in this project:
-1. Designed and implemented efficient Bitcoin Hashing SHA256 algorithm
+1. Designed and implemented an efficient Bitcoin Hashing SHA256 algorithm
 
 2. Implemented pipelining and unfolding computation for SHA256. Improved performance for Bitcoin mining to a theoretical maximum value
 
