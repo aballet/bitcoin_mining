@@ -1,4 +1,4 @@
-# bitcoin_mining
+# Bitcoin Mining (SHA256) Hash Algorithm
 
 ECE 111 Final Project
 
